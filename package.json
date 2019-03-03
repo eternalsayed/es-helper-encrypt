@@ -1,0 +1,25 @@
+{
+  "name": "es-helper-encrypt",
+  "version": "1.0.0",
+  "description": "NodeJS utility for functions related to security/encryption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eternalsayed/es-helper-encrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "secure",
+    "security"
+  ],
+  "author": "Sayed Ahad Abbas <super@eternalsayed.in>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eternalsayed/es-helper-encrypt/issues"
+  },
+  "homepage": "https://github.com/eternalsayed/es-helper-encrypt#readme",
+  "private": true
+}
